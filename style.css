@@ -46,8 +46,8 @@ body {
   background-color: #e6e8f5;
   border-radius: 300px 300px 0 0;
   position: absolute;
-  bottom: -180px;
-  left: 0;
+  bottom: -160px;
+  left: 10px;
   transform: rotate(-90deg) scale(2.4);
   z-index: -1;
 }
@@ -125,13 +125,14 @@ body {
 }
 
 .container.textWrapper > * {
-  margin: 10px 30px;
+  margin: 9px 30px;
 }
 
 .headline {
   color: #5162b4;
   font-weight: 500;
   font-size: 12px;
+  transform: translateY(10px);
 }
 
 h1 {
