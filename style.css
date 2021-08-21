@@ -108,7 +108,6 @@ body {
   box-shadow: -18px -193px 179px -44px rgba(255, 255, 255, 1) inset;
   -webkit-box-shadow: -18px -193px 179px -44px rgba(255, 255, 255, 1) inset;
   -moz-box-shadow: -18px -193px 179px -44px rgba(255, 255, 255, 1) inset;
-  /* z-index: -1; */
 }
 
 /* content */
@@ -187,7 +186,6 @@ button {
   border: 1px solid #dcdbdc;
   background-color: white;
   border-radius: 4px;
-  /* padding: 25px; */
 }
 
 .card > * {
@@ -212,7 +210,6 @@ button {
 
 .cardIcon > img {
   width: 19px;
-  /* height: 20px; */
 }
 
 .cardIcon.green {
